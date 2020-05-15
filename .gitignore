@@ -13,3 +13,7 @@ buildNumber.properties
 01Actuator/mvnw
 01Actuator/.mvn/wrapper/maven-wrapper.jar
 01Actuator/.mvn/
+02customHealthEndpoint/mvnw.cmd
+02customHealthEndpoint/mvnw
+02customHealthEndpoint/.mvn/wrapper/maven-wrapper.jar
+02customHealthEndpoint/.mvn/
